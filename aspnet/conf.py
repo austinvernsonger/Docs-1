@@ -47,7 +47,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'ASP.NET'
-copyright = '2015, Microsoft'
+copyright = '2016, Microsoft. Documentation licensed under CC BY 3.0'
 author = 'Microsoft'
 
 # The version info for the project you're documenting, acts as replacement for
